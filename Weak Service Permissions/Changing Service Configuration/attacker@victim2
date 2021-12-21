@@ -1,0 +1,1 @@
+.\sc.exe config evilsvc binpath= "c:\program.exe"
