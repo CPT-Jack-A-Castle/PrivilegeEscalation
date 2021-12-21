@@ -1,0 +1,3 @@
+\\vboxsvr\tools\accesschk.exe /accepteula -ucv "mantvydas" evilsvc
+or
+\\vboxsvr\tools\accesschk.exe /accepteula -uwcqv "Authenticated Users" *
